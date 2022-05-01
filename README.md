@@ -1,8 +1,9 @@
 # Identifying and mapping areas in Berlin with the highest theft amounts 
 
 Juypter nbviewer renders the maps and shows the code along.
-So if the notebook is too heavy for rendering or you get the message *'Make this Notebook Trusted to load map: File -> Trust Notebook'*, please click here:
-
+So if the notebook is too heavy for rendering or you get the message   
+`Make this Notebook Trusted to load map: File -> Trust Notebook`   
+Please click here:
 [Rendered project with Jupyter nbviewer](https://nbviewer.org/github/linapg/berlin-bike-thefts-map/blob/main/geopandas-berlin-bike-thefts.ipynb)
 
 ### The goal is to identify areas in Berlin with the highest theft amounts  
@@ -17,7 +18,8 @@ This data is provided by Berlin Open Data and collected by the police of Berlin.
 - Practice different joining methods
 - Use pivot tables with Pandas
 - Use the GeoPandas package
-   
+
+![](geopandas_result_view.png)
 
 [Website to datatset -  daten.berlin.de](https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin)
 
