@@ -1,4 +1,4 @@
-# Identifying and mapping areas in Berlin with the highest theft amounts 
+# A Berlin map with the most bike thefts areas 
 
 Juypter nbviewer renders the maps and shows the code along.
 So if the notebook is too heavy for rendering or you get the message   
